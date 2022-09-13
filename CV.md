@@ -26,7 +26,8 @@ Hello. I want to become a Python developer. I started learning Python about 1.5 
 English Level - Intermediate
 
 ## Edication
-Belarusian-Russian University(2020-2024) Informatics and Computer Engineering
+Belarusian-Russian University(2020-2024)
+- Informatics and Computer Engineering
 
 ## Completed courses
 - Python basics course: February 2021 - April 2021, iTechArt Group
