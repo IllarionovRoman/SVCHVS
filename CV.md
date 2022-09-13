@@ -27,7 +27,7 @@ English Level - Intermediate
 
 ## Edication
 Belarusian-Russian University(2020-2024)
-Informatics and Computer Engineering
+- Informatics and Computer Engineering
 
 ## Completed courses
 - Python basics course: February 2021 - April 2021, iTechArt Group
