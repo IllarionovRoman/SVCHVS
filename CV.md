@@ -25,7 +25,7 @@ Hello. I want to become a Python developer. I started learning Python about 1.5 
 ## Additional Information
 English Level - Intermediate
 
-## Edication
+## Education
 Belarusian-Russian University(2020-2024)
 - Informatics and Computer Engineering
 
