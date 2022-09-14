@@ -19,7 +19,7 @@ Hello. I want to become a Python developer. I started learning Python about 1.5 
 - Python
 - Django
 - HTML/CSS/JS
-- SQL/PostgeSQL
+- SQL/PostgreSQL
 - Git/Github
 
 ## Additional Information
