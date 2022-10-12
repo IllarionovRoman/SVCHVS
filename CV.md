@@ -4,6 +4,7 @@
 - Phone number - +375336744691
 - E-mail - ilro2002@mail.ru
 - Github - https://github.com/IllarionovRoman
+- Telegram - https://t.me/v888vv88
 
 ## Profile
 Hello. I want to become a Python developer. I started learning Python about 1.5 years ago. Since then, I had a dream to get a job. I have 5 pet-projects(Django) that can be viewed on my github. In the future, I want to do more projects and post them on my github. I always do the tasks that are given to me and I am ready to learn new technologies.
