@@ -14,6 +14,7 @@ Hello. I want to become a Python developer. I started learning Python about 1.5 
 - Teamwork
 - Responsobility
 - Dedication
+- Sociable
 
 ## Hard Skills
 - Python
