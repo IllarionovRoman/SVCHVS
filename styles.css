@@ -1,0 +1,98 @@
+header{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1% 2% 1% 25%;
+    padding: 3% 1% 1% 2%;
+    font: italic 12px arial;
+}
+
+.image-page{
+padding-left: 6%;
+}
+
+#img{
+    margin: 10px;
+    height: 10em;
+    width: 10em;
+    display: block;
+    text-align: right;
+    border-radius: 50%
+}
+
+.description{
+    display: block;
+    margin: 1% 1% 1% 1%;
+    padding: 3% 3% 3% 3%;
+    text-align: center;
+    font: italic 12px arial;
+}
+.description .about-me{
+    display: block;
+}
+
+.contacts-ul li{
+    margin-left: 10%
+    display:block;
+}
+.contacts-ul h3{
+    margin-left: -5%;
+
+}
+.name h2 {
+    margin-left: 10%;
+}
+.education {
+    display: block;
+    margin: 1% 1% 1% 1%;
+    padding: 3% 3% 3% 3%;
+    text-align: center;
+    font: italic 12px arial;
+}
+.education .education-description{
+    display: block;
+}
+.courses{
+    display: block;
+    margin: 1% 1% 1% 1%;
+    padding: 3% 3% 3% 3%;
+    text-align: center;
+    font: italic 12px arial;
+}
+.courses .courses-description {
+    display: block;
+}
+
+.skills{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -10%;
+    font: italic 12px arial;
+
+}
+.softskills-ul {
+    margin-left: -19%;
+
+
+}
+.hardskills-ul {
+    margin-left: -10%;
+}
+.softskills {
+    margin-left:25%;
+    display:block
+}
+.hardskills {
+    margin-left: 30%;
+    margin-right:-25%;
+    display:block;
+}
+footer{
+    position: relative;
+    padding: 20px 50px;
+    background: #808080;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: -0.8%;
+    margin-right: -0.8%;
+}
