@@ -5,6 +5,9 @@ header{
     padding: 3% 1% 1% 2%;
     font: italic 12px arial;
 }
+body {
+    display: display;
+}
 
 .image-page{
 padding-left: 6%;
