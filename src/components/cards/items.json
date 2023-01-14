@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "name": "Топор",
+        "price": 10,
+        "img": "https://cs5.livemaster.ru/storage/2f/e2/593efc8300bebb8ffae73f9e13g9--russkij-stil-topor-sssr-iz-zik-1956-goda.jpg",
+        "count": 2
+    },
+    {
+        "id": 1,
+        "name": "Пила",
+        "price": 11,
+        "img": "https://i1.wp.com/mirlandshaft.ru/wp-content/uploads/2016/07/Obyichnyiy-vid-pilyi2.jpg",
+        "count": 3
+    },
+    {
+        "id": 2,
+        "name": "Молоток",
+        "price": 13,
+        "img": "https://avatars.mds.yandex.net/i?id=d031325c308e08b800f1bac185fe25a1db19f06b-6177852-images-thumbs&n=13",
+        "count": 4
+    }
+]
